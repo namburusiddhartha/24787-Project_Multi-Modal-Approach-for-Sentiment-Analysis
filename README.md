@@ -29,13 +29,13 @@ Multimodal Emotion Lines Dataset (MELD) is used comprising 13708 utterances from
 ## Usage
 
 In code folder - 
-NLP_Text_final.ipynb - Using raw text data, applying feature engineering and calculating metrics using shallow machine learning models.
-NLP_Text_Glove_final.ipynb - Using glove vectors from raw text data and calculating metrics using shallow machine learning models.
-NLP_Audio_final.ipynb - Using raw audio data, applying feature engineering and calculating metrics using shallow machine learning models.
-NLP_Audio_text_final.ipynb - Combining raw audio and text data, applying feature engineering and calculating metrics using shallow machine learning models.
-NLP_Audio_text_final_6373.ipynb - Testing different feature engineering methods in multi-modal approach.
-MLAI_BiLSTManswer.ipynb - Using BiLSTM with the audio features to predict sentiment and emotion.
-Grapgs.ipynb - Generating graphs shown in the report.
+1) NLP_Text_final.ipynb - Using raw text data, applying feature engineering and calculating metrics using shallow machine learning models.
+2) NLP_Text_Glove_final.ipynb - Using glove vectors from raw text data and calculating metrics using shallow machine learning models.
+3) NLP_Audio_final.ipynb - Using raw audio data, applying feature engineering and calculating metrics using shallow machine learning models.
+4) NLP_Audio_text_final.ipynb - Combining raw audio and text data, applying feature engineering and calculating metrics using shallow machine learning models.
+5) NLP_Audio_text_final_6373.ipynb - Testing different feature engineering methods in multi-modal approach.
+6) MLAI_BiLSTManswer.ipynb - Using BiLSTM with the audio features to predict sentiment and emotion.
+7) Graphs.ipynb - Generating graphs shown in the report.
 
 #### For more details refer to the report - ML_Final_Report_Emotional_ASTAR.pdf
 
